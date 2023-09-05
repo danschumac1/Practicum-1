@@ -1,0 +1,9 @@
+KPSS test for Births
+
+T = 365
+Lag truncation parameter = 5
+Test statistic = 1.82765
+
+                   10%      5%      1%
+Critical values: 0.348   0.462   0.741
+P-value < .01
